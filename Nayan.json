@@ -6,15 +6,15 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
-  "PREFIX": "/",
+  "BOTNAME": "NEWTON-BOT",
+  "PREFIX": "*",
   "OPERATOR": [
     "100014896964436",
     "100000959749712"
   ],
   "ADMINBOT": [
-    "100014896964436",
-    "100000959749712"
+    
+    "100095322679638"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
